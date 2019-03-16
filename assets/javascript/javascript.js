@@ -33,7 +33,7 @@ $(document).ready(function () {
   }
   //adds the wins to the userTotal
   function win() {
-    alert("WINNER WINNER CHICKEN DINNER!!!1!1 \*dab\* ");
+    alert("WINNER WINNER CHICKEN DINNER!!!1!1 \*dab\*");
     wins++;
     $('#numberWins').text(wins);
     reset();
