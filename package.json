@@ -1,0 +1,23 @@
+{
+  "name": "crystal_collector",
+  "version": "1.0.0",
+  "description": "Match the number generated to win",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3dcorrea/Crystal_Collector.git"
+  },
+  "author": "Dan Correa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3dcorrea/Crystal_Collector/issues"
+  },
+  "homepage": "https://github.com/3dcorrea/Crystal_Collector#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1"
+  }
+}
