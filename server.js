@@ -16,7 +16,7 @@ app.use(express.static("routes/public"));
 
 
 // Routes
-require("./app/routes/htmlRoutes")(app);
+require("./app/htmlRoutes")(app);
 
 
 // If running a test, set syncOptions.force to true
